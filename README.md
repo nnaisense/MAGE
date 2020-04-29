@@ -1,6 +1,6 @@
 # MAGE :crystal_ball:
 <img src="mage_logo.png" width="220" height="220">
 
-The code for "Learning Action-Value Gradients in Model-based Policy Optimization".
+Paper: "How to Learn a Useful Critic? Model-based Action-Gradient-Estimator Policy Optimization".
 
-The code will be available in the near future.
+A placeholder; the code will be published in the near future.
